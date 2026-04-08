@@ -1,0 +1,9 @@
+{
+  "name": "velib",
+  "version": "1.0.0",
+  "description": "Disponibilité des stations Vélib en temps réel",
+  "scripts": {
+    "start": "npx serve public -l 3000"
+  },
+  "license": "MIT"
+}
